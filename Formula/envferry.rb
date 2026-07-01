@@ -7,8 +7,8 @@ require "language/node"
 class Envferry < Formula
   desc "Move .env files between machines without pasting secrets into chat"
   homepage "https://github.com/MalikZu/envferry"
-  url "https://registry.npmjs.org/envferry/-/envferry-0.1.0.tgz"
-  sha256 "424deaeba69e73defe8614de24fedf3468a2dac4468c8e3a6fc928fa2fbcc4f1"
+  url "https://registry.npmjs.org/envferry/-/envferry-0.1.1.tgz"
+  sha256 "49c18839f44d595716c5a6a6cd702b2af0e304000c8c4b3f0a52c99329c3533c"
   license "MIT"
 
   depends_on "node"
